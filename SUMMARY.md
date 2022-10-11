@@ -3,19 +3,24 @@
 ## Overview
 
 * [What is TheBards Protocol?](README.md)
+* [Deployed Contract Addresses](overview/deployed-contract-addresses.md)
+* [FAQ](overview/faq.md)
 
-## Product Guides
+## MAJOR CONCEPTS
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [Curation](major-concepts/curation.md)
+* [Profile](major-concepts/profile.md)
+* [Publication](major-concepts/publication.md)
+* [Collect](major-concepts/collect.md)
+* [Market Module](major-concepts/market-module.md)
+* [Minter Module](major-concepts/minter-module.md)
 
-## Fundamentals
+## GETTING STARTED
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [Creating a Profile](getting-started/creating-a-profile.md)
+* [Publishing Posts](getting-started/publishing-posts.md)
+* [Collecting Curations](getting-started/collecting-curations.md)
 
-## Use Cases
+## THEBARDS PROTOCOL
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Introduction](thebards-protocol/introduction.md)

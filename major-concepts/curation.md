@@ -1,4 +1,4 @@
-# 📪 Making a post
+# Curation
 
 ## Step 1 - Start journalling
 

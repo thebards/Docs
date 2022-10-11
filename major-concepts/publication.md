@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# Publication
 
 ## How Projects work
 
