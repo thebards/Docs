@@ -24,4 +24,5 @@
 * [THEBARDS PROTOCOL](thebards-protocol/README.md)
   * [Introduction](use-cases/for-designers.md)
   * [Metadata Standards](thebards-protocol/metadata-standards.md)
+  * [Data Schema](thebards-protocol/data-schema.md)
   * [Events](thebards-protocol/events.md)
