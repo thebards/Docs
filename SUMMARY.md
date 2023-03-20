@@ -33,3 +33,4 @@
 
 * [Introduction](use-cases/for-designers.md)
 * [Metadata Standards](thebards-protocol/metadata-standards.md)
+* [Events](thebards-protocol/events.md)
