@@ -11,22 +11,22 @@
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>This contract contains simple data relevant to the bards Dao, such as the module governance address, treasury address and protocol fee BPS.
 </code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xc942874C91519a567bD28Fa54D66f3eF45dd2f10">https://mumbai.polygonscan.com/address/0xc942874C91519a567bD28Fa54D66f3eF45dd2f10</a></td></tr><tr><td><pre><code>WETH
-</code></pre></td><td><pre><code>0x0e02B369D9750F267a7f0469ad0D724B59740f01
+</code></pre></td><td><pre><code>0xCF9D527A732fd70943b20A0fA4C07D5959D49ACb
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre><code>WETH
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x0e02B369D9750F267a7f0469ad0D724B59740f01">https://mumbai.polygonscan.com/address/0x0e02B369D9750F267a7f0469ad0D724B59740f01</a></td></tr><tr><td><pre><code>EpochManager
-</code></pre></td><td><pre><code>0x825b57D3c6a5c3FB8dbbC312BD9670A1b93C2b26
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xCF9D527A732fd70943b20A0fA4C07D5959D49ACb">https://mumbai.polygonscan.com/address/0xCF9D527A732fd70943b20A0fA4C07D5959D49ACb</a></td></tr><tr><td><pre><code>EpochManager
+</code></pre></td><td><pre><code>0x7dA2148C9f23F18c0751b538b2e2C24C1a82c543
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>Produce epochs based on a number of blocks to coordinate contracts in the protocol.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x825b57D3c6a5c3FB8dbbC312BD9670A1b93C2b26">https://mumbai.polygonscan.com/address/0x825b57D3c6a5c3FB8dbbC312BD9670A1b93C2b26</a></td></tr><tr><td><pre><code>BardsCurationToken
-</code></pre></td><td><pre><code>0x7136Cef98584F4f6EA55e2068fb6C53d6a6580c7
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x7dA2148C9f23F18c0751b538b2e2C24C1a82c543">https://mumbai.polygonscan.com/address/0x7dA2148C9f23F18c0751b538b2e2C24C1a82c543</a></td></tr><tr><td><pre><code>BardsCurationToken
+</code></pre></td><td><pre><code>0xB367FFFbD389D7Fc4e82BaA3EDFdA46af88386EF
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>This is the implementation of the ERC20 Bards Curation Token.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x7136Cef98584F4f6EA55e2068fb6C53d6a6580c7">https://mumbai.polygonscan.com/address/0x7136Cef98584F4f6EA55e2068fb6C53d6a6580c7</a></td></tr><tr><td><pre><code>BardsShareToken
-</code></pre></td><td><pre><code>0x27Ca6f339D797C7D2cC64F89Ac3243Fe07570dC9
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xB367FFFbD389D7Fc4e82BaA3EDFdA46af88386EF">https://mumbai.polygonscan.com/address/0xB367FFFbD389D7Fc4e82BaA3EDFdA46af88386EF</a></td></tr><tr><td><pre><code>BardsShareToken
+</code></pre></td><td><pre><code>0xfA039D8Ae78bF79D03Cc940a10f3E4686Db72180
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre><code>This is the implementation of the Bards Share ERC20 token.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x27Ca6f339D797C7D2cC64F89Ac3243Fe07570dC9">https://mumbai.polygonscan.com/address/0x27Ca6f339D797C7D2cC64F89Ac3243Fe07570dC9</a></td></tr><tr><td><pre><code>RewardsManager
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xfA039D8Ae78bF79D03Cc940a10f3E4686Db72180">https://mumbai.polygonscan.com/address/0xfA039D8Ae78bF79D03Cc940a10f3E4686Db72180</a></td></tr><tr><td><pre><code>RewardsManager
 </code></pre></td><td><pre><code>0xB08B23372dB5d40B89480Da82717B88267A3B493
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>Tracks how inflationary $BARDS rewards should be handed out.
