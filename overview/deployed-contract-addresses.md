@@ -3,14 +3,14 @@
 ## <mark style="color:green;">Addresses</mark>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th>Contract Name:</th><th>Mumbai Testnet Address:</th><th>Polygon Mainnet Address:</th><th>Info:</th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><pre><code>BardsHub
-</code></pre></td><td><pre><code>0x18a29B4F23370e314aB466B879cc4A773Fb9cA1d
+</code></pre></td><td><pre><code>0x1F24E3c1E6DeeA9F58a5E84A8bdc201E88a1cD09
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>The main entry point for the TheBards Protocol
-</code></pre></td><td><a href="https://polygonscan.com/address/0x18a29B4F23370e314aB466B879cc4A773Fb9cA1d">https://polygonscan.com/address/0x18a29B4F23370e314aB466B879cc4A773Fb9cA1d</a></td><td><a href="https://mumbai.polygonscan.com/address/0x18a29B4F23370e314aB466B879cc4A773Fb9cA1d">https://mumbai.polygonscan.com/address/0x18a29B4F23370e314aB466B879cc4A773Fb9cA1d</a></td></tr><tr><td><pre><code>BardsDaoData
-</code></pre></td><td><pre><code>0x17af5ed8073f498D28deB996A41F3Abfd99B54E5
+</code></pre></td><td><a href="https://polygonscan.com/address/0x18a29B4F23370e314aB466B879cc4A773Fb9cA1d">https://polygonscan.com/address/0x18a29B4F23370e314aB466B879cc4A773Fb9cA1d</a></td><td><a href="https://mumbai.polygonscan.com/address/0x1F24E3c1E6DeeA9F58a5E84A8bdc201E88a1cD09">https://mumbai.polygonscan.com/address/0x1F24E3c1E6DeeA9F58a5E84A8bdc201E88a1cD09</a></td></tr><tr><td><pre><code>BardsDaoData
+</code></pre></td><td><pre><code>0xc942874C91519a567bD28Fa54D66f3eF45dd2f10
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>This contract contains simple data relevant to the bards Dao, such as the module governance address, treasury address and protocol fee BPS.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x17af5ed8073f498D28deB996A41F3Abfd99B54E5">https://mumbai.polygonscan.com/address/0x17af5ed8073f498D28deB996A41F3Abfd99B54E5</a></td></tr><tr><td><pre><code>WETH
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xc942874C91519a567bD28Fa54D66f3eF45dd2f10">https://mumbai.polygonscan.com/address/0xc942874C91519a567bD28Fa54D66f3eF45dd2f10</a></td></tr><tr><td><pre><code>WETH
 </code></pre></td><td><pre><code>0x0e02B369D9750F267a7f0469ad0D724B59740f01
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre><code>WETH
