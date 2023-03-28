@@ -27,35 +27,35 @@
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre><code>This is the implementation of the Bards Share ERC20 token.
 </code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xfA039D8Ae78bF79D03Cc940a10f3E4686Db72180">https://mumbai.polygonscan.com/address/0xfA039D8Ae78bF79D03Cc940a10f3E4686Db72180</a></td></tr><tr><td><pre><code>RewardsManager
-</code></pre></td><td><pre><code>0xB08B23372dB5d40B89480Da82717B88267A3B493
+</code></pre></td><td><pre><code>0xd809a50821BF938bBB60a804ca1daAffFbcf5931
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>Tracks how inflationary $BARDS rewards should be handed out.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xB08B23372dB5d40B89480Da82717B88267A3B493">https://mumbai.polygonscan.com/address/0xB08B23372dB5d40B89480Da82717B88267A3B493</a></td></tr><tr><td><pre><code>BancorFormula
-</code></pre></td><td><pre><code>0xDfE48d27B4fa0DE2Cf0c9Ff82fa8cCb05fbD6f05
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xd809a50821BF938bBB60a804ca1daAffFbcf5931">https://mumbai.polygonscan.com/address/0xd809a50821BF938bBB60a804ca1daAffFbcf5931</a></td></tr><tr><td><pre><code>BancorFormula
+</code></pre></td><td><pre><code>0xE18ce0F03604B484820954Ec5F8500599948564D
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre><code>BancorFormula
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xDfE48d27B4fa0DE2Cf0c9Ff82fa8cCb05fbD6f05">https://mumbai.polygonscan.com/address/0xDfE48d27B4fa0DE2Cf0c9Ff82fa8cCb05fbD6f05</a></td></tr><tr><td><pre><code>BardsStaking
-</code></pre></td><td><pre><code>0x005A5b315aE770d776796251E4F5ee6a6cb8EcD0
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xE18ce0F03604B484820954Ec5F8500599948564D">https://mumbai.polygonscan.com/address/0xE18ce0F03604B484820954Ec5F8500599948564D</a></td></tr><tr><td><pre><code>BardsStaking
+</code></pre></td><td><pre><code>0x824487b83EFD814352921B4F35342F04E2A53864
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>Allows delegator to delegate to curations by staking Bards Curation Tokens.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x005A5b315aE770d776796251E4F5ee6a6cb8EcD0">https://mumbai.polygonscan.com/address/0x005A5b315aE770d776796251E4F5ee6a6cb8EcD0</a></td></tr><tr><td><pre><code>RoyaltyEngine
-</code></pre></td><td><pre><code>0x6265e6b3391D4701Cac55DFc48C84C5c73399241
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x824487b83EFD814352921B4F35342F04E2A53864">https://mumbai.polygonscan.com/address/0x824487b83EFD814352921B4F35342F04E2A53864</a></td></tr><tr><td><pre><code>RoyaltyEngine
+</code></pre></td><td><pre><code>0x1bb2fe6D9d164f65625d988FDB6420bEC4AF2B7f
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre><code>RoyaltyEngine
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x6265e6b3391D4701Cac55DFc48C84C5c73399241">https://mumbai.polygonscan.com/address/0x6265e6b3391D4701Cac55DFc48C84C5c73399241</a></td></tr><tr><td><pre><code>FixPriceMarketModule
-</code></pre></td><td><pre><code>0x0815B80C5cEB1A4295E0075EC861Cc63a7BBe664
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x1bb2fe6D9d164f65625d988FDB6420bEC4AF2B7f">https://mumbai.polygonscan.com/address/0x1bb2fe6D9d164f65625d988FDB6420bEC4AF2B7f</a></td></tr><tr><td><pre><code>FixPriceMarketModule
+</code></pre></td><td><pre><code>0x09F1cE11e82faEDe7F5045ab6F123e235bbf2f78
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>This module allows sellers to list an owned ERC-721 token for sale for a given price in a given currency, and allows buyers to purchase from those asks.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x0815B80C5cEB1A4295E0075EC861Cc63a7BBe664">https://mumbai.polygonscan.com/address/0x0815B80C5cEB1A4295E0075EC861Cc63a7BBe664</a></td></tr><tr><td><pre><code>FreeMarketModule
-</code></pre></td><td><pre><code>0xf01E29015296919fC90c136bD0a31D0610E6a664
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x09F1cE11e82faEDe7F5045ab6F123e235bbf2f78">https://mumbai.polygonscan.com/address/0x09F1cE11e82faEDe7F5045ab6F123e235bbf2f78</a></td></tr><tr><td><pre><code>FreeMarketModule
+</code></pre></td><td><pre><code>0xB100D24848E3Ca1DcE2adA645D3DCA8cF6a53394
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>This module allows sellers to list an owned ERC-721 token for sale for free.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xf01E29015296919fC90c136bD0a31D0610E6a664">https://mumbai.polygonscan.com/address/0xf01E29015296919fC90c136bD0a31D0610E6a664</a></td></tr><tr><td><pre><code>CloneMinter
-</code></pre></td><td><pre><code>0x63bb703be300dB4E62ccF9587B6E272bB56F9Db4
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xB100D24848E3Ca1DcE2adA645D3DCA8cF6a53394">https://mumbai.polygonscan.com/address/0xB100D24848E3Ca1DcE2adA645D3DCA8cF6a53394</a></td></tr><tr><td><pre><code>CloneMinter
+</code></pre></td><td><pre><code>0x72dd383AD04A3950F7F8696bd05805F4fA961E5E
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>Minting in the form of cloning.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x63bb703be300dB4E62ccF9587B6E272bB56F9Db4">https://mumbai.polygonscan.com/address/0x63bb703be300dB4E62ccF9587B6E272bB56F9Db4</a></td></tr><tr><td><pre><code>TransferMinter
-</code></pre></td><td><pre><code>0xaeE6E7b8C08c54aa7AF9122c008D3B78D70c22C7
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0x72dd383AD04A3950F7F8696bd05805F4fA961E5E">https://mumbai.polygonscan.com/address/0x72dd383AD04A3950F7F8696bd05805F4fA961E5E</a></td></tr><tr><td><pre><code>TransferMinter
+</code></pre></td><td><pre><code>0xa3397A1685108bf3e51DE70fED39d5a89c5C22Be
 </code></pre></td><td><pre><code>
 </code></pre></td><td><pre data-overflow="wrap"><code>Minting in the form of transfering.
-</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xaeE6E7b8C08c54aa7AF9122c008D3B78D70c22C7">https://mumbai.polygonscan.com/address/0xaeE6E7b8C08c54aa7AF9122c008D3B78D70c22C7</a></td></tr></tbody></table>
+</code></pre></td><td></td><td><a href="https://mumbai.polygonscan.com/address/0xa3397A1685108bf3e51DE70fED39d5a89c5C22Be">https://mumbai.polygonscan.com/address/0xa3397A1685108bf3e51DE70fED39d5a89c5C22Be</a></td></tr></tbody></table>
