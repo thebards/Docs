@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/TheBards Protocol.jpeg" alt=""><figcaption></figcaption></figure>
 
-## Problems Saved
+## Problems Solved
 
 This protocol aims to address key issues in the current digital economy by implementing curation for value capture, fractal structure for economic distribution, and smart contracts for automated management. The following are some of the problems that this protocol may solve:
 
